@@ -1,0 +1,8 @@
+Desafio BD DIO
+
+1. Mapeamento do esquema ER para relacional
+2. Definição do script SQL para a criação do esquema de Banco de Dados
+3. Persistência de dados para testes
+4. Recuperação de informações com queries SQL
+
+
